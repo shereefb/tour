@@ -1,0 +1,107 @@
+#: locale=fr
+
+## Action
+
+### URL
+WebFrame_E1C67CB6_FCF8_1C61_41C4_FDCC133E1A26.url = https://eureca3d.net/app/globe/azprom
+LinkBehaviour_03915742_28D0_6735_41C3_153161ADE07A.source = https://eureca3d.net/boukhalfa/appartements/f4_108m/
+
+## Media
+
+### Title
+video_24BDEC44_3897_B5E9_41B0_4F905D9C5AA9.label = 2nd Point of view (1)
+video_1AF7560D_38F7_B57B_41A2_5A3B8F661CD6.label = 3rd point
+panorama_2A5C51D1_3877_AEEB_41C7_18EA44B8AD49.label = BR
+panorama_2A5BDEC7_3877_B2F7_41BE_69DCFDECE37E.label = BR1 .
+panorama_2A5BB8B1_3877_FEAB_41A6_CF22285446E7.label = BR1..
+panorama_2A5C062B_3877_95BF_41C9_D72A73257DAD.label = BR1..
+panorama_2A5BCBCD_3877_92FB_41AC_2536330CC6EE.label = BR2
+model_42825FB7_4FA0_A42A_41CC_18F2A07C8F79.label = Baked_zome_3
+panorama_2B8B642A_3877_95B2_41AB_739F6769F410.label = Bathroom
+panorama_28F5481A_3869_7D99_41C6_C3428177D336.label = Entrabce Live pano
+panorama_2A5B9FF2_3877_B2A9_41AC_F06DE916829A.label = Hall entrance
+panorama_2A5C7899_3868_9E9B_41C3_F72C7469106D.label = Kitchen
+panorama_2A5C9587_3868_B777_41C7_AC21B4E03013.label = Living ...
+panorama_2A5C325A_3868_AD99_41C4_C43AB9E041DA.label = Living corner
+panorama_2A5C72DD_3877_B29B_41CA_C75A5F036AC9.label = Living corner ..
+panorama_2A5C7D42_3877_97E9_41C0_FA87044F2A91.label = Living middle
+panorama_2A5B7B00_3877_7369_418B_C91D3236D2E0.label = Living miid ..
+panorama_2A5CA97B_3868_9F9F_41BF_99B6053A19B4.label = Office ...
+panorama_2A5C4C87_3868_F577_41C3_8F67D806BDB6.label = Office ...
+panorama_2A5CFF3E_3868_9399_41C1_6D66065CEEBC.label = Office.
+video_231D5755_3899_F3EB_41BA_74876A9F1714.label = Zome Intro (2)
+
+### Video
+videolevel_5FE2BA95_51CC_2D1D_41C7_DE42AABBAFF9.url = media/video_1AF7560D_38F7_B57B_41A2_5A3B8F661CD6_fr.mp4
+videolevel_5FE2BA95_51CC_2D1D_41C7_DE42AABBAFF9.posterURL = media/video_1AF7560D_38F7_B57B_41A2_5A3B8F661CD6_poster_fr.jpg
+videolevel_5FE30A42_51CC_2D74_41C5_98D9CCA9C519.url = media/video_231D5755_3899_F3EB_41BA_74876A9F1714_fr.mp4
+videolevel_5FE30A42_51CC_2D74_41C5_98D9CCA9C519.posterURL = media/video_231D5755_3899_F3EB_41BA_74876A9F1714_poster_fr.jpg
+videolevel_5FE24A67_51CC_2D3C_41B8_3C51B955E04B.url = media/video_24BDEC44_3897_B5E9_41B0_4F905D9C5AA9_fr.mp4
+videolevel_5FE24A67_51CC_2D3C_41B8_3C51B955E04B.posterURL = media/video_24BDEC44_3897_B5E9_41B0_4F905D9C5AA9_poster_fr.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_237E64E1_0091_FBDA_4171_2BAFE2A3B6CB.label = 360° VIEWS
+Button_DBB26DF5_F830_45B5_41C5_A58E71678E2C_mobile.label = BATHROOM
+Button_DBB26DF5_F830_45B5_41C5_A58E71678E2C.label = BATHROOM
+Button_EC6711B1_F873_BA4D_41E0_06B4AF8F26C9.label = BR1
+Button_EC6711B1_F873_BA4D_41E0_06B4AF8F26C9_mobile.label = BR1
+Button_EC6741B1_F873_BA4D_4182_ECDE39D0FA4B_mobile.label = BR2
+Button_EC6741B1_F873_BA4D_4182_ECDE39D0FA4B.label = BR2
+Button_EC6671AD_F873_BA55_41D2_548953197CAA.label = ENTRANCE
+Button_EC6671AD_F873_BA55_41D2_548953197CAA_mobile.label = ENTRANCE
+Button_EC66F1B1_F873_BA4D_41DC_916B2FCC8EC7.label = KITCHEN
+Button_EC66F1B1_F873_BA4D_41DC_916B2FCC8EC7_mobile.label = KITCHEN
+Button_EC6701B1_F873_BA4D_41E6_700DA341CFDD.label = LIVING
+Button_EC6701B1_F873_BA4D_41E6_700DA341CFDD_mobile.label = LIVING
+Button_ED519E2F_F871_C655_41E4_D8D66E4B22D6.label = MEDIUM                                160 m²                          Prix                        Disponibilitée
+Button_237EF4E0_0091_FBDA_415E_8AF40DFAECA0.label = MOVE IN THE  SPACE
+Button_DB7E576E_F830_46D7_41E8_066E628856A9_mobile.label = OFFICE
+Button_DB7E576E_F830_46D7_41E8_066E628856A9.label = OFFICE
+Button_ED518E2F_F871_C655_41D5_67333682C998.label = SMALL                                  108 m²                          PRICE                        AVAILABLITY
+Button_237F74DA_0091_FBEE_4184_0BC92D2118C4.label = START EXPLORING OUR "ZOMES"
+Button_ED51BE2F_F871_C655_41C5_43990220BBD1.label = ZOMES MODELS
+Button_E1ECAFD7_F9F0_45F5_41CB_ABF30C6B0CDA.label = demander une demo a distance
+Button_E019D94F_F9F0_4AD5_41E6_D1C1870142F5.label = discuter avec nos agents
+
+### Image
+Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0.url = skin/Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0_fr.png
+Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0_mobile.url = skin/Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0_mobile_fr.png
+Image_EE733570_F813_BACB_41EA_41D5D49AADCB.url = skin/Image_EE733570_F813_BACB_41EA_41D5D49AADCB_fr.png
+
+### Label
+Label_4F023A17_50AF_EA43_41C3_A9EC1860CD8A.text = BR1
+Label_4C09877E_50A1_5AC5_41C3_DDA9D3863E95.text = BR2
+Label_192D88C6_00B7_0BE6_4153_6A16A8F518A6.text = Back
+Label_4AF18030_50A1_D65C_41D3_F81A7BE4ADBB.text = Bathroom
+Label_EED35DA7_F810_4A55_41D4_17EB064A0F2F.text = El Menzah (ex Canastel)
+Label_4AB3D2C5_50A1_5BC4_41BF_26AB949C921E.text = Entrance
+Label_76899DD0_50E1_A9DC_4181_DF2E221BCD8F.text = Exterior
+Label_4B351C77_50A0_EEC2_41C2_992228A601CB.text = Kitchen
+Label_4A613457_50A1_5EC4_41CA_E6BF6BAA7151.text = Living
+Label_4D0BB437_50A0_DE44_41BF_12C108BF5C71.text = Office
+Label_EF660FAC_F830_C654_41E4_36DB1C687512.text = Résidence, ANES
+Label_EA954FC9_FAB0_C97B_41D9_41F23C07A648.text = Visiter nos appartements 
+
+### Multiline Text
+HTMLText_237D94E1_0091_FBDA_4161_913FA5512C2A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.0856453558504229vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.09vw;word-break:break-word;">Click and drag to view in different directions</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.72vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_237E14E0_0091_FBDA_40E9_1E11DE732000.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.0856453558504229vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.09vw;word-break:break-word;">View different points of view </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.09vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.72vw;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_EA956FC9_FAB0_C97B_41DB_7B2B16906146.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc0000;font-size:37px;word-break:break-word;font-family:'AcmeFont';">AZ Prom </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:25px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:25px;word-break:break-word;font-family:'AcmeFont';">Résidence ANES</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">La promotion immobilière</SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="color:#cc0000;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"><B>AZ Prom</B></SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">vous présente sa résidence "ANES" qui est un projet haut standing de 112 logements de type F4 en Simplex et F6 en Duplex, la résidence composée de deux tours est située a El Menzah (ex Canastel), occupe un emplacement optimal et calme qui vous offre une vue panoramique sur mer et sur la foret de Canastel. Pas de vis à vis. Le taux d'avancement du projet est de 94 %.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">Un centre commercial est prévue au R.D.C et au 1er étage.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">Deux niveaux de parking en sous-sol destinés aux acquéreurs.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">NB : l'entreprise de construction :</SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="color:#cc0000;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">BTPH Hasnaoui</SPAN></SPAN></DIV></div>
+HTMLText_EE5F0DDC_F810_45FB_41C0_A694166E79F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:22px;word-break:break-word;"><B>-</B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B> </B></SPAN><SPAN STYLE="font-size:15px;word-break:break-word;"><B>Délais de réalisation:</B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B>    </B></SPAN><SPAN STYLE="color:#666666;font-size:22px;word-break:break-word;"><B>24 mois</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cc0000;font-size:22px;word-break:break-word;"><B>-</B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B> </B></SPAN><SPAN STYLE="font-size:15px;word-break:break-word;"><B>Taux d'avancement</B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B>:     </B></SPAN><SPAN STYLE="color:#cc0000;font-size:22px;word-break:break-word;"><B>85%</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:22px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#990000;font-size:22px;word-break:break-word;"><B>-</B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B> </B></SPAN><SPAN STYLE="font-size:15px;word-break:break-word;"><B>Prix:      </B></SPAN><SPAN STYLE="font-size:22px;word-break:break-word;"><B>                    </B></SPAN><SPAN STYLE="color:#666666;font-size:22px;word-break:break-word;"><B>Sur demande</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_CFEA8B1A_F830_4E7F_41E2_498C35EF6104.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:53px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:53px;word-break:break-word;"><B>AZ PROM</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:33px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:33px;word-break:break-word;"><B><I>Résidence ANES</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">La promotion immobilière</SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="color:#cc0000;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"><B>AZ Prom</B></SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">vous présente sa résidence "ANES" qui est un projet haut standing de 112 logements de type F4 en Simplex et F6 en Duplex, la résidence composée de deux tours est située a El Menzah (ex Canastel), occupe un emplacement optimal et calme qui vous offre une vue panoramique sur mer et sur la foret de Canastel. Pas de vis à vis. Le taux d'avancement du projet est de 94 %.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">Un centre commercial est prévue au R.D.C et au 1er étage.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">Deux niveaux de parking en sous-sol destinés aux acquéreurs.</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">NB : l'entreprise de construction :</SPAN><SPAN STYLE="color:#cccccc;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;"> </SPAN><SPAN STYLE="color:#cc0000;font-size:19px;word-break:break-word;font-family:Tahoma, Geneva, sans-serif;">BTPH Hasnaoui.</SPAN></SPAN></DIV></div>
+HTMLText_DD6C28BE_FF58_0460_41E8_4A48A2BE1023.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Meublé</SPAN></DIV></div>
+HTMLText_DD6DB8C1_FF58_0420_41C8_C1476C9927EB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:right;font-size:2.44vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:2.44vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;">Sans Meuble</SPAN></DIV></div>
+
+### Tooltip
+Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0.toolTip = Start VR Experience 
+Image_1E7B63A1_3CFC_4587_41CB_C0FD648052F0_mobile.toolTip = Start VR experience
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Zomes interactive 2
